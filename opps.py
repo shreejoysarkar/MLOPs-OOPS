@@ -17,4 +17,5 @@ sam = Employee()
 print(sam.id)
 print(sam.salary)
 
+# calling the method defined in Employee classllllllllllllllll
 print(sam.travel('New York'))
